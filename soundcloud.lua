@@ -1,4 +1,5 @@
 -- SoundCloud for VLC.
+-- Visit https://bitbucket.org/Nabile/soundcloud-for-vlc for updates.
 
 --[[
 
